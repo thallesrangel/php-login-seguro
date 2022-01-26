@@ -1,5 +1,6 @@
 # Login seguro no PHP
 
+Usando PASSWORD_ARGON2ID
 [Youtube](https://www.youtube.com/watch?v=Qhk6xu53kho)
 
 ## SQL
